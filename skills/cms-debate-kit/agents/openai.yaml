@@ -1,0 +1,4 @@
+interface:
+  display_name: "CMS Debate Kit"
+  short_description: "발췌문 기반 토론 자료 제작과 인용 검증 워크플로우"
+  default_prompt: "$cms-debate-kit을 사용해 발췌문 기반 토론 자료를 만들고 인용을 검증해 주세요."
